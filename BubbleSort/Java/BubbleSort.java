@@ -1,5 +1,5 @@
 //Código por Henrique Felipe (GitHub: HenriqueIni)
-//https://www.blogcyberini.com
+//https://www.blogcyberini.com/
 public class BubbleSort {
     //VERSÃO NORMAL E SEM OTIMIZAÇÕES
     //O(n²) em todos os casos
