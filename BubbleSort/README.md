@@ -2,7 +2,7 @@
 
 Algoritmo de ordenação Bubble Sort. Complexidade O(n<sup>2</sup>) no pior caso e caso médio e O(n) no melhor caso.
 
-* [**Código em Java**](/BubbleSort/Java/Bubblesort.java)
+* [**Código em Java**](/BubbleSort/Java/BubbleSort.java)
 * [**Código em C**](/BubbleSort/C/Bubblesort.c)
 
 ## Mais informações
