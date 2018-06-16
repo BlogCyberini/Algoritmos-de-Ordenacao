@@ -5,7 +5,7 @@ public class BubbleSort {
     //O(n²) em todos os casos
     public static void bubbleSort(int[] a){
         if(a == null){
-            throw new NullPointerException("The array doesn't exist.");
+            throw new NullPointerException("O array não existe.");
         }
         for(int i = 0; i < a.length - 1; i++){
             for(int j = 0; j < a.length - i - 1; j++){
@@ -22,7 +22,7 @@ public class BubbleSort {
     //Pior caso e caso médio: O(n²)
     public static void bubbleSortOpt(int[] a){
         if(a == null){
-            throw new NullPointerException("O array não existe");
+            throw new NullPointerException("O array não existe.");
         }
         boolean flag = true;
         for(int i = 0; i < a.length - 1 && flag; i++){
