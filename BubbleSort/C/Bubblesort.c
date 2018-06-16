@@ -1,4 +1,5 @@
 //Código por Henrique Felipe (GitHub: HenriqueIni)
+//https://www.blogcyberini.com/
 #include <stdio.h>
 #include <stdlib.h>
 
