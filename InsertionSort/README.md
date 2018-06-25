@@ -3,6 +3,7 @@
 Algoritmo de ordenação Insertion Sort. Complexidade O(n<sup>2</sup>) no pior caso e caso médio e O(n) no melhor caso.
 
 * [**Código em Java**](/InsertionSort/Java/InsertionSort.java)
+* [**Código em JavaScript**](/InsertionSort/JavaScript/InsertionSort.js)
 * [**Código em C**](/InsertionSort/C/InsertionSort.c)
 
 ## Mais informações
