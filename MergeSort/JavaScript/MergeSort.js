@@ -13,7 +13,7 @@
  */
 function mergeSort(A, inicio, fim) {
     if (inicio < fim) {
-        //a função Math.floor é necessário para que o resultado seja inteiro
+        //a função Math.floor é necessária para que o resultado seja inteiro
         var meio = Math.floor((inicio + fim) / 2); //calcula o meio
         mergeSort(A, inicio, meio); //ordena do subvetor esquerdo            
         mergeSort(A, meio + 1, fim); //ordena do subvetor direito            
