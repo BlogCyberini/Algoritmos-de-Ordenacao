@@ -13,4 +13,4 @@ Algoritmo de ordenação Quicksort. Complexidade no tempo O(n log n) no melhor c
 * [**Código em C**](/Quicksort/Hoare%20e%20Cormen/Quicksort.c)
 
 ## Mais informações
-Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Merge Sort](https://www.blogcyberini.com/2018/07/merge-sort.html)
+Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Quicksort](https://www.blogcyberini.com/2018/08/quicksort-analise-e-implementacoes.html)
