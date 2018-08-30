@@ -19,3 +19,6 @@ Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Qu
 * [**Código em Java**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.java)
 * [**Código em JavaScript**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.js)
 * [**Código em C**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.c)
+
+### Mais informações
+Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Quicksort (Mediana de Três)](https://www.blogcyberini.com/2018/08/quicksort-mediana-de-tres.html)
