@@ -15,7 +15,7 @@ Algoritmo de ordenação Quicksort. Complexidade no tempo O(n log n) no melhor c
 ### Mais informações
 Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Quicksort](https://www.blogcyberini.com/2018/08/quicksort-analise-e-implementacoes.html)
 
-## Versão Mediana de três
+## Versão mediana de três
 * [**Código em Java**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.java)
 * [**Código em JavaScript**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.js)
 * [**Código em C**](/Quicksort/MedianaDeTres/QuicksortMedianaDeTres.c)
