@@ -22,3 +22,11 @@ Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Qu
 
 ### Mais informações
 Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Quicksort (Mediana de Três)](https://www.blogcyberini.com/2018/08/quicksort-mediana-de-tres.html)
+
+## Versão com pivô aleatório
+* [**Código em Java**](/Quicksort/Aleatorizado/QuicksortAleatorizado.java)
+* [**Código em JavaScript**](/Quicksort/Aleatorizado/QuicksortAleatorizado.js)
+* [**Código em C**](/Quicksort/Aleatorizado/QuicksortAleatorizado.c)
+
+### Mais informações
+Para obter maiores informações sobre o funcionamento do algoritmo, acesse: [Quicksort com pivô aleatório](https://www.blogcyberini.com/2018/09/quicksort-com-pivo-aleatorio.html)
