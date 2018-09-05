@@ -9,4 +9,4 @@ Implementações em Java do Quicksort paralelo (_multithreading_) com o padrão 
 
 ## Mais informações
 
-Para informação sobre a implementação e funcionamento, acesse: [Quicksort paralelo em Java utilizando o modelo Fork-Join](https://www.blogcyberini.com/2018/09/quicksort-paralelo-em-java-fork-join.html#quickosortfj_index)
+Para informação sobre a implementação e funcionamento, acesse: [Quicksort paralelo em Java utilizando o modelo Fork-Join](https://www.blogcyberini.com/2018/09/quicksort-paralelo-em-java-fork-join.html)
