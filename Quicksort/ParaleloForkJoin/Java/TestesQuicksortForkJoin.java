@@ -48,7 +48,7 @@ public class TestesQuicksortForkJoin {
         System.out.println("A (ordenado com Quicksort com pivô aleatório) = " + arrayToString(A));
     }
     
-    //Método auxliar para imprimir os arrays
+    //Método auxiliar para imprimir os arrays
     private static String arrayToString(int[] array){
         String aux = "[" + array[0];
         for(int i = 1; i < array.length; i++){
